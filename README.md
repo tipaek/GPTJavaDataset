@@ -39,6 +39,7 @@
 </details>
 
 
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -55,6 +56,7 @@ Here's the general idea:
 Of course, there are limitations to this dataset as code classification by an LLM is novel. However, this could be a reasonable starting point for those who want to detect GPT. Feel free to use this dataset for research or training.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- GETTING STARTED -->
@@ -75,6 +77,7 @@ To download this dataset, simply download it as a zip file and extract it from t
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- CONTACT -->
 ## Contact
 
@@ -83,6 +86,7 @@ Timothy Paek - [Linked-In](https://www.linkedin.com/in/timothy-paek/) - tipaek@s
 Project Link: [https://github.com/tipaek/GPTJavaDataset](https://github.com/tipaek/GPTJavaDataset)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -95,6 +99,7 @@ What I used in making this dataset:
 * [Bing GPT-4](https://chat.bing.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
