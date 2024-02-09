@@ -8,7 +8,7 @@ public class LhjSizeModeFor76D implements LhjSizemode {
     // ... (other fields)
 
     // Constructors
-    public LhjSizeModeFor76D(String type, double sxhLength, int sxhCount, /* other parameters */) {
+    public LhjSizeModeFor76D(String type, double sxhLength, int sxhCount /* other parameters */) {
         this.type = type;
         this.sxhLength = sxhLength;
         this.sxhCount = sxhCount;

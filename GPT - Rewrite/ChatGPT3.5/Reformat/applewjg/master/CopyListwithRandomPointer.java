@@ -85,4 +85,6 @@ public RandomListNode copyRandomList_4(RandomListNode head) {
         if (head == null) return null;
         HashMap<RandomListNode, RandomListNode> map = new HashMap<>();
         Queue<RandomListNode> queue = new LinkedList<>();
-        q
+        return head;
+    }
+}

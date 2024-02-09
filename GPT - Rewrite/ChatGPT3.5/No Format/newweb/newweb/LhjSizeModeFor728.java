@@ -9,7 +9,7 @@ public class LhjSizeModeFor728 implements LhjSizemode {
     private int bfCount;
     // ... (other fields)
 
-    public LhjSizeModeFor728(String type, double sxhLength, int sxhCount, double bfLength, int bfCount, /* other parameters */) {
+    public LhjSizeModeFor728(String type, double sxhLength, int sxhCount, double bfLength, int bfCount /* other parameters */) {
         this.type = type;
         this.sxhLength = sxhLength;
         this.sxhCount = sxhCount;

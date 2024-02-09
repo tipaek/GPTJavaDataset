@@ -6,6 +6,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.StringBuilder;
 
 import javax.swing.JOptionPane;
 
@@ -24,7 +25,7 @@ import com.newweb.service.business.OrderService;
 import com.newweb.util.FileUtil;
 
 @Component("orderBxgService")
-public class OrderBxgServiceImp implements OrderBxgService {
+public class OrderBxgServiceImp {
 
     @Autowired
     private OrderBxgDao orderBxgDao;

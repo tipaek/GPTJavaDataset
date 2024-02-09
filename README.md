@@ -10,7 +10,7 @@
   <h3 align="center">GPT Java Source Code Dataset</h3>
 
   <p align="center">
-    A dataset composed of 977 total Java source code files from 11 authors' GitHub pages and ChatGPT 3.5 and BingGPT rewritten code for code classification.
+    A dataset composed of 976 total Java source code files from 11 authors' GitHub pages and ChatGPT 3.5 and BingGPT rewritten code for code classification.
     <br />
     <a href="https://github.com/tipaek/GPTJavaDataset"><strong>Explore the files »</strong></a>
     <br />
@@ -65,10 +65,10 @@ Of course, there are limitations to this dataset as code classification by an LL
 ### Composition
 
 Here's a breakdown of the files in this dataset:
-* 977 total files
+* 976 total files
 * 666 files of original authors
 * 108 rewritten files using Bing GPT-4 (61 formatted, 47 non-formatted)
-* 203 rewritten files using ChatGPT-3.5 (59 formatted, 144 non-formatted)
+* 202 rewritten files using ChatGPT-3.5 (59 formatted, 143 non-formatted)
 
 ### Installation
 
